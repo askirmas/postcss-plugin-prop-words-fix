@@ -1,0 +1,29 @@
+{
+  "name": "postcss-plugin-prop-words-fix",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/askirmas/postcss-plugin-prop-words-fix.git"
+  },
+  "keywords": [],
+  "author": {
+    "email": "kirmas@phystech.edu",
+    "name": "Andrii Kirmas",
+    "url": "https://about.me/kirmas"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/askirmas/postcss-plugin-prop-words-fix/labeles/bug"
+  },
+  "homepage": "https://github.com/askirmas/postcss-plugin-prop-words-fix#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "np": {
+    "yarn": false
+  }
+}
